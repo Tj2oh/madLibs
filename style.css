@@ -12,9 +12,30 @@ p{
 
 h1{
     color: gold;
+    font-family: cursive;
 }
 
 ul{
     flex-direction: column;
     
 }
+
+body{
+    text-align: center;
+    font-size: 24px;
+}
+
+ul{
+    font-size: 24px;
+}
+li{
+    list-style-type: none;
+}
+ 
+input{
+    font-family: cursive;
+    font-size: 20px;
+    background: black;
+}
+
+
