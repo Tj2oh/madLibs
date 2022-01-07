@@ -1,0 +1,20 @@
+body{
+    background-color: blueviolet;
+}
+
+p{
+    color: gold;
+}
+
+::placeholder{
+    color: gold;
+}
+
+h1{
+    color: gold;
+}
+
+ul{
+    flex-direction: column;
+    
+}
